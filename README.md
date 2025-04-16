@@ -23,6 +23,7 @@ Esse é um projetinho simples que criei pra treinar Python e brincar com interfa
 
 
 Veja como a interface do gerador de senhas ficou:
+
 ![Screenshot do gerador de senhas](screenshot.png)
 
 
